@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         Rectangle rectangle1 = new Rectangle(2, 4);
-        
+
 
         //Length of 2
         //width of 4
